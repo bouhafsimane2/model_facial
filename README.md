@@ -29,15 +29,6 @@ streamlit run app.py
 
 L'application s'ouvre sur http://localhost:8501.
 
-## Déploiement (Streamlit Community Cloud, gratuit)
-
-1. Se connecter sur [share.streamlit.io](https://share.streamlit.io) avec son compte GitHub.
-2. **Create app › Deploy a public app from GitHub**, puis choisir ce dépôt, la branche `main`
-   et le fichier `app.py`.
-3. Dans **Advanced settings**, choisir **Python 3.12**, puis cliquer sur **Deploy**.
-
-L'application se met à jour automatiquement à chaque `git push`.
-
 ## Structure
 
 ```
