@@ -1,5 +1,7 @@
 # Détection d'émotions faciales
 
+🔗 **Démo en ligne : https://detection-emotions.streamlit.app**
+
 Application web qui reconnaît l'émotion exprimée par un visage à partir d'une photo importée
 ou prise avec la webcam.
 
